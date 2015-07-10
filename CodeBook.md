@@ -1,3 +1,4 @@
+<
 CodeBook
 This is a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 The data source
@@ -34,4 +35,4 @@ How run_analysis.R implements the above steps:
 •	Load the features and activity labels.
 •	Extract the mean and standard deviation column names and data.
 •	Process the data. There are two parts processing test and train data respectively.
-•	Merge data set.
+•	Merge data set.>
